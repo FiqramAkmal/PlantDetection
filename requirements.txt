@@ -1,0 +1,3 @@
+ultralytics==8.4.66
+opencv-python-headless
+paho-mqtt
