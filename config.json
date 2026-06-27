@@ -1,7 +1,0 @@
-{
-  "mqtt_broker": "demo.thingsboard.io",
-  "mqtt_topic": "v1/devices/me/telemetry",
-  "device_token": "token_raspberry",
-  "threshold_moisture": 45.0,
-  "interval_scan_seconds": 600
-}
