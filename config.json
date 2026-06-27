@@ -1,0 +1,27 @@
+{
+  "mqtt_broker": "50377e16722143e2b1635f900b328405.s1.eu.hivemq.cloud",
+  "mqtt_port": 8883,
+  "mqtt_topic": "WTH/tele",
+  "mqtt_username": "weather",
+  "mqtt_password": "Wth12345",
+
+  "device_id": "raspi-plant-01",
+  "device_token": "token_raspberry",
+
+  "interval_scan_seconds": 10,
+
+  "camera_index": 0,
+  "stream_host": "0.0.0.0",
+  "stream_port": 5001,
+
+  "stream_width": 640,
+  "stream_height": 480,
+  "stream_fps": 10,
+  "jpeg_quality": 60,
+
+  "yolo_model": "best.pt",
+  "yolo_imgsz": 416,
+  "yolo_conf": 0.4,
+
+  "torch_num_threads": 2
+}
